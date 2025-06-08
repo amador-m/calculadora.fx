@@ -1,0 +1,18 @@
+#tela {
+  -fx-font-size: 15px;
+  -fx-text-fill: #570000;
+  -fx-font-weight: bold;
+  -fx-padding: 15px;
+  -fx-background-color: #FDFFFF;
+  -fx-border-color: #570000;
+  -fx-border-width: 1px;
+}
+.button:hover {
+  -fx-background-color: #B10F2E;
+}
+.button {
+  -fx-font-size: 15px;
+}
+.root {
+  -fx-background-color: #FDFFFF;
+}
